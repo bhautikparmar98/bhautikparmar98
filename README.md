@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhautik Parmar
 - 👀 I’m interested in Web Development / Mobile App development / Cloud services
-- 🌱 I’m currently learning software Industry trends
+- 🌱 I’m currently learning Software Industry trends
 - 📫 One can reach me on my Email: bhautikparmar98@gmail.com, Phone: +918898514218
 
 <!---
