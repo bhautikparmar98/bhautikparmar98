@@ -1,7 +1,7 @@
 Hi 👋 My name is Bhautik Parmar
 ===============================
 
-Web Developer / Mobile App developer / Cloud services
+Web Developer / Mobile App Developer / Cloud Services
 -----------------------------------------------------
 
 I am a full-stack developer, also passionate about cloud services, and have a total experience of 2 years in the software industry. I am currently working with TCS, providing solutions for the banking and financial services sector and helping clients build complex web applications and business intelligence dashboards serving 1000+ users with modern technologies.
